@@ -74,3 +74,8 @@ memory_game/
 ## 🎨 Collection Mini Doges
 
 La collection Mini Doges représente un moment historique dans l'écosystème Dogecoin, étant la première collection de 10 000 NFTs sur cette blockchain. Chaque Mini Doge est unique et fait partie de cette collection emblématique.
+
+## 👥 Auteurs
+
+- Benjamin Jaccob - *Développeur initial* <br><br>
+[![Atelier Digital VisiCraft](https://img.shields.io/badge/Atelier%20Digital-VisiCraft-orange?style=for-the-badge&logo=github&logoColor=white)](https://visicraft.fr)
