@@ -28,7 +28,7 @@ Un jeu de mémoire (Memory) mettant en vedette la collection Mini Doges, la prem
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/gofastpanam/memory_game
+git clone https://github.com/benjamin-jacob-dev/memory_game
 cd memory-game
 ```
 
